@@ -1,0 +1,32 @@
+body, main{
+    min-height: 100%;
+    min-height: 100vh;
+    background-color: lightgray;
+    width: 100%;    
+}
+
+.agrupamento{
+    border-radius: 8px;
+    width: 100%;
+}
+.formulario{
+    background-color: rgba(255,255,255,0.3);
+    border-radius: 10px;
+    
+}
+.spanImg img{
+    background-color:rgba(0,0,0,0);
+    border-right:none;
+    border-radius:0;
+    width: 26px;
+    height: 26px;
+    border: none;
+}
+.inputNone{
+    border-left:none;
+}
+.cancelar{
+    background-color: gray;
+    border-color: gray;
+}
+
